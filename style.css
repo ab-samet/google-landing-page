@@ -38,6 +38,8 @@ ul li a:hover {
 }
 .header-right-appicon:hover {
   opacity: 1;
+  background-color: rgba(89, 81, 81, 0.127);
+  border-radius: 5px;
 }
 .header-right-button {
   background-color: #4285f4;
@@ -51,6 +53,7 @@ ul li a:hover {
 }
 .header-right-button:hover {
   cursor: pointer;
+  opacity: 0.8;
 }
 /* -------------------------------------------------------------------------- */
 /*                                    MAIN                                    */
